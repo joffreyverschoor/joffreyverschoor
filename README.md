@@ -8,7 +8,7 @@
 
 <h3 align="left">Over mij</h3>
 <p align="left">
-Hallo! Ik ben Joffrey Verschoor, welkom op mijn GitHub-profiel. Hier deel ik de projecten die ik heb ontwikkeld. Momenteel is mijn portfolio niet beschikbaar, omdat ik deze aan het updaten ben.
+Hallo! Ik ben Joffrey Verschoor, welkom op mijn GitHub-profiel. Hier deel ik de projecten die ik heb ontwikkeld. Momenteel is <a href="https://joffreyverschoor.nl" target="_blank" rel="noreferrer">mijn portfolio</a> niet beschikbaar, omdat ik deze aan het updaten ben.
 
 Als developer heb ik een sterke passie voor het creëren van strakke, gebruiksvriendelijke interfaces, applicaties en websites. Ik ben leergierig en altijd enthousiast om nieuwe technologieën te verkennen en samen met een team te werken aan de ultieme gebruikerservaring.
 
