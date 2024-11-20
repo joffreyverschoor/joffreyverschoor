@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hoi, Mijn naam is Joffrey Verschoor</h1>
+<h1 align="left">👋 Hoi, mijn naam is Joffrey Verschoor</h1>
 <h3 align="left">Een gepassioneerde developer uit Nederland.</h3>
 
 <p align="left">🔭 Ik ben momenteel aan het werken aan mijn portfolio.</p>
