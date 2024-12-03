@@ -6,7 +6,7 @@
 <p align="left">📫 Contacteer mij via contact@joffreyverschoor.nl</p>
 <p align="left">⚡ Fun fact: Ik vind mijzelf erg grappig</p>
 
-<h3 align="left">Over mij. Test!</h3>
+<h3 align="left">Over mij</h3>
 <p align="left">
 Hallo! Ik ben Joffrey Verschoor, welkom op mijn GitHub-profiel. Hier deel ik de projecten die ik heb ontwikkeld. Momenteel is <a href="https://joffreyverschoor.nl" target="_blank" rel="noreferrer">mijn portfolio</a> niet beschikbaar, omdat ik deze aan het updaten ben.
 
