@@ -1,18 +1,16 @@
 <h1 align="left">👋 Hoi, mijn naam is Joffrey Verschoor</h1>
 <h3 align="left">Een gepassioneerde developer uit Nederland.</h3>
 
-<p align="left">🔭 Ik ben momenteel aan het werken aan mijn portfolio.</p>
-<p align="left">👨‍💻 Zie mijn portfolio: https://joffreyverschoor.nl</p>
-<p align="left">📫 Contacteer mij via contact@joffreyverschoor.nl</p>
-<p align="left">⚡ Fun fact: Ik vind mijzelf erg grappig</p>
+<p align="left">- Ik ben momenteel aan het werken aan mijn portfolio.</p>
+<p align="left">- Zie mijn portfolio: https://joffreyverschoor.nl</p>
+<p align="left">- Contacteer mij via contact@joffreyverschoor.nl</p>
+<p align="left">- Fun fact: Ik vind mijzelf erg grappig</p>
 
 <h3 align="left">Over mij</h3>
 <p align="left">
 Hallo! Ik ben Joffrey Verschoor, welkom op mijn GitHub-profiel. Hier deel ik de projecten die ik heb ontwikkeld. Momenteel is <a href="https://joffreyverschoor.nl" target="_blank" rel="noreferrer">mijn portfolio</a> niet beschikbaar, omdat ik deze aan het updaten ben.
 
 Als developer heb ik een sterke passie voor het creëren van strakke, gebruiksvriendelijke interfaces, applicaties en websites. Ik ben leergierig en altijd enthousiast om nieuwe technologieën te verkennen en samen met een team te werken aan de ultieme gebruikerservaring.
-
-Daarnaast volg ik momenteel een studie Informatica aan de Hogeschool Rotterdam, waar ik mijn kennis in softwareontwikkeling verder verdiep en mijn vaardigheden blijf ontwikkelen.
 </p>
   
 <h3 align="left">Codeertalen en tools</h3>
