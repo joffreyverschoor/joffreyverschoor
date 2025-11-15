@@ -2,7 +2,6 @@
 <h3 align="left">Een gepassioneerde developer uit Nederland.</h3>
 
 - Ik ben momenteel aan het werken aan mijn portfolio.</p>
-- Zie mijn portfolio: https://joffreyverschoor.nl</p>
 - Contacteer mij via joffreyv2003@gmail.com (binnenkort contact@joffreyverschoor.nl)</p>
 - Fun fact: Ik vind mijzelf erg grappig</p>
 
